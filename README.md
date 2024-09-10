@@ -1,2 +1,2 @@
-# Python-Exercises
-  Exercicios básicos executados para praticar.
+# Python Basic Exercises
+  
